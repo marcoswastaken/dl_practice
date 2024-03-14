@@ -19,3 +19,7 @@ Thumbs.db
 # Personal Garbage #
 ####################
 marscratch_*
+
+# API Keys #
+############
+.env
